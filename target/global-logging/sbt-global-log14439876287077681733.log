@@ -1,0 +1,5 @@
+[debug] > Exec(libraryDependencies, None, None)
+[debug] Evaluating tasks: libraryDependencies
+[info] * org.scala-lang:scala-library:2.13.8
+[info] * com.typesafe:config:1.4.0
+[debug] > Exec(idea-shell, None, None)

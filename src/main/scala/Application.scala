@@ -1,4 +1,3 @@
-import domain.Task.Ticket
 import repository.inmem.repository.Task.TicketRepository
 
 object Application extends App{

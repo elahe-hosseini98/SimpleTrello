@@ -9,5 +9,5 @@ object Application extends App{
   trelloApp.add("task3", "this is the first ticket", "todo")
   trelloApp.add("task4", "this is the first ticket", "todo")
   //trelloApp.remove("task1")
-  trelloApp.update("task19", "done")
+  trelloApp.update("task1", "done")
 }
